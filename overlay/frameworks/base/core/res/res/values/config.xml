@@ -35,8 +35,6 @@
                 <string ...>M -5,0 L -5,10 L 5,10 L 5,0 Z @dp</string>
          @see https://www.w3.org/TR/SVG/paths.html#PathData
     -->
-    <string name="config_mainBuiltInDisplayCutout">M-436.5,33L-319.5,33A38.5,38.5 0,0 1,-281 71.5L-281,71.5A38.5,38.5 0,0 1,-319.5 110L-436.5,110A38.5,38.5 0,0 1,-475 71.5L-475,71.5A38.5,38.5 0,0 1,-436.5 33z M -475,0 L -283,0 Z M -540,0 L -540,113 Z</string>
-
-    <bool name="config_fillMainBuiltInDisplayCutout">true</bool>
+    <string name="config_mainBuiltInDisplayCutout">M -544,0 L -544,108 L -287,108 L -287,0 Z</string>
 
 </resources>
