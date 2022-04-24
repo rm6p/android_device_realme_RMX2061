@@ -19,6 +19,8 @@
 <!-- These resources are around just to allow their values to be customized
      for different hardware and product builds. -->
 <resources>
+
     <!-- Allow devices override audio panel location to the left side -->
-    <bool name="config_audioPanelOnLeftSide">true</bool>
+    <bool name="config_audioPanelOnLeftSide">false</bool>
+
 </resources>
