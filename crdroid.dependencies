@@ -1,0 +1,25 @@
+[
+ {
+    "repository" : "crdroidandroid/android_device_realme_sm7125-common",
+    "target_path": "device/realme/sm7125-common",
+    "remote"     : "github",
+    "revision"   : "12.1"
+ },
+ {
+    "repository" : "crdroidandroid/android_vendor_realme_RMX2061",
+    "target_path": "vendor/realme",
+    "remote"     : "crdroid-gitlab",
+    "revision"   : "12.1"
+ },
+ {
+    "repository" : "crdroidandroid/android_kernel_realme_sm7125",
+    "target_path": "kernel/realme/sm7125",
+    "remote"     : "github",
+    "revision"   : "12.1"
+ },
+ {
+    "repository" : "crdroidandroid/proton-clang",
+    "target_path": "prebuilts/clang/host/linux-x86/clang-proton",
+    "remote"     : "github",
+ }
+]
