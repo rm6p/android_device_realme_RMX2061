@@ -11,13 +11,13 @@ $(call inherit-product, device/realme/RMX2061/device.mk)
 TARGET_BOOT_ANIMATION_RES := 1080
 
 # Inherit some common crDroid stuff
-$(call inherit-product, vendor/lineage/config/common_full_phone.mk)
+$(call inherit-product, vendor/arrow/config/common.mk)
 
 # Quick Tap
-TARGET_SUPPORTS_QUICK_TAP := true
+#TARGET_SUPPORTS_QUICK_TAP := true
 
 # Device identifier
-PRODUCT_NAME := lineage_RMX2061
+PRODUCT_NAME := arrow_RMX2061
 PRODUCT_DEVICE := RMX2061
 PRODUCT_BRAND := Realme
 PRODUCT_MODEL := Realme 6 Pro
