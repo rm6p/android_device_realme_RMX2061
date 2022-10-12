@@ -5,4 +5,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_RMX2061.mk
+    $(LOCAL_DIR)/arrow_RMX2061.mk
